@@ -1,7 +1,5 @@
 # Technology Brief: User Experience (UX) Design
 
-> UX falls under Option 6 of the technology table in the assignment brief, which needs lecturer approval by the end of Week 4. Confirm approval with Dr. Faiz and keep the evidence.
-
 ## C1. Fundamental Concepts
 
 ### What it is
