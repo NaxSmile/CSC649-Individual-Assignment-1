@@ -41,7 +41,7 @@ Casual and first-time buyers who use the eBay mobile app must work through crowd
 ### In scope
 
 - Buyer-side flows only: Home, Search, Filters, Search Results, Listing Page, Auction Information, Cart and Checkout (UI only).
-- Low-fidelity wireframes and a mid- or high-fidelity clickable prototype in Figma for the key screens.
+- Low-fidelity wireframes and a mid or high-fidelity clickable prototype in Figma for the key screens.
 - Heuristic evaluation of the current app, and a small usability test about 5 participants on the redesigned prototype.
 - One mobile platform: Android.
 
