@@ -1,6 +1,6 @@
 # Requirements
 
-In the requirements below, **"the system"** means the **redesigned eBay mobile app buyer experience, as shown in the prototype**.
+In the requirements below, the system means the **redesigned eBay mobile app buyer experience, as shown in the prototype**.
 
 ## B1. Functional Requirements
 
