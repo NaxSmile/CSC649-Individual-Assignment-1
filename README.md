@@ -27,7 +27,7 @@ User Experience (UX) design: human-centred design, usability heuristics, prototy
 
 ## Status
 
-Draft in progress. Updated: 30 October 2026.
+Final Check before Submit. 14 November 2026.
 
 ## Author
 
